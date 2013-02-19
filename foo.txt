@@ -4,6 +4,10 @@ of puppets
 
 !!!
 
+<<<<<<< HEAD
 LAME
 
 Super lame
+=======
+What the what?!
+>>>>>>> blerg

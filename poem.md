@@ -1,14 +1,8 @@
-I am going to write a little bit of text
-
 Here is some text. It is not great.
 
 I never saw a wild thing sorry for itself
 A bird will fall frozen, dead from a bough 
 Without EVER having felt sorry for itself
-
-Two roads diverged in a yellow wood
-
-MORE edits
 
 `Twas brillig, and the slithy toves
   Did gyre and gimble in the wabe:
